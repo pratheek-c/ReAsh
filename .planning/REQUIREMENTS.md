@@ -111,53 +111,53 @@
 
 ## Traceability
 
-*Populated by roadmap creation*
+*Populated by roadmap creation — 2026-04-07*
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DIST-01 | — | Pending |
-| DIST-02 | — | Pending |
-| DIST-03 | — | Pending |
-| DIST-04 | — | Pending |
-| AUTH-01 | — | Pending |
-| AUTH-02 | — | Pending |
-| AUTH-03 | — | Pending |
-| AUTH-04 | — | Pending |
-| MODL-01 | — | Pending |
-| MODL-02 | — | Pending |
-| MODL-03 | — | Pending |
-| CHAT-01 | — | Pending |
-| CHAT-02 | — | Pending |
-| CHAT-03 | — | Pending |
-| CHAT-04 | — | Pending |
-| CHAT-05 | — | Pending |
-| CHAT-06 | — | Pending |
-| CHAT-07 | — | Pending |
-| RSCH-01 | — | Pending |
-| RSCH-02 | — | Pending |
-| RSCH-03 | — | Pending |
-| RSCH-04 | — | Pending |
-| RSCH-05 | — | Pending |
-| OUTP-01 | — | Pending |
-| OUTP-02 | — | Pending |
-| OUTP-03 | — | Pending |
-| OUTP-04 | — | Pending |
-| OUTP-05 | — | Pending |
-| OUTP-06 | — | Pending |
-| OUTP-07 | — | Pending |
-| SESS-01 | — | Pending |
-| SESS-02 | — | Pending |
-| SESS-03 | — | Pending |
-| SESS-04 | — | Pending |
-| SESS-05 | — | Pending |
-| RELY-01 | — | Pending |
-| RELY-02 | — | Pending |
-| RELY-03 | — | Pending |
+| DIST-01 | Phase 1 | Pending |
+| DIST-02 | Phase 1 | Pending |
+| DIST-03 | Phase 1 | Pending |
+| DIST-04 | Phase 1 | Pending |
+| AUTH-01 | Phase 2 | Pending |
+| AUTH-02 | Phase 2 | Pending |
+| AUTH-03 | Phase 2 | Pending |
+| AUTH-04 | Phase 2 | Pending |
+| MODL-01 | Phase 3 | Pending |
+| MODL-02 | Phase 3 | Pending |
+| MODL-03 | Phase 3 | Pending |
+| CHAT-01 | Phase 3 | Pending |
+| CHAT-02 | Phase 3 | Pending |
+| CHAT-03 | Phase 3 | Pending |
+| CHAT-04 | Phase 3 | Pending |
+| CHAT-05 | Phase 3 | Pending |
+| CHAT-06 | Phase 3 | Pending |
+| CHAT-07 | Phase 3 | Pending |
+| RELY-03 | Phase 3 | Pending |
+| SESS-01 | Phase 4 | Pending |
+| SESS-02 | Phase 4 | Pending |
+| SESS-03 | Phase 4 | Pending |
+| SESS-04 | Phase 4 | Pending |
+| SESS-05 | Phase 4 | Pending |
+| RSCH-01 | Phase 5 | Pending |
+| RSCH-02 | Phase 5 | Pending |
+| RSCH-03 | Phase 5 | Pending |
+| RSCH-04 | Phase 5 | Pending |
+| RSCH-05 | Phase 5 | Pending |
+| RELY-01 | Phase 5 | Pending |
+| RELY-02 | Phase 5 | Pending |
+| OUTP-01 | Phase 6 | Pending |
+| OUTP-02 | Phase 6 | Pending |
+| OUTP-03 | Phase 6 | Pending |
+| OUTP-04 | Phase 6 | Pending |
+| OUTP-05 | Phase 6 | Pending |
+| OUTP-06 | Phase 6 | Pending |
+| OUTP-07 | Phase 6 | Pending |
 
 **Coverage:**
 - v1 requirements: 38 total
-- Mapped to phases: 0 (pending roadmap creation)
-- Unmapped: 38
+- Mapped to phases: 38 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-04-07*
